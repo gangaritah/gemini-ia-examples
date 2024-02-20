@@ -1,0 +1,9 @@
+/chat/node_modules
+/clasificacion/node_modules
+/comparar-imagenes/node_modules
+/deteccion-de-objetos/node_modules
+
+/chat/.env
+/clasificacion/.env
+/comparar-imagenes/.env
+/deteccion-de-objetos/.env
